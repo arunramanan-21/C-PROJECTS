@@ -1,0 +1,7 @@
+ Roll		 Name		 Marks
+ 1		 manju		 80.00
+ 2		 chandru		 95.00
+ 3		 aruna		 75.00
+ 4		 vinukutti		 90.00
+ 5		 ramana		 95.00
+ 6		 kathir		 87.00
